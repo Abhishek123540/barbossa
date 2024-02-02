@@ -8,13 +8,13 @@ $ go build && ./barbossa
 
 ## Contributing
 1. Fork the repo
-2. Pull the forked repo
+2. Clone the forked repo
 ```
-git pull git@github.com/<yourname>/barbossa
+git clone git@github.com/<yourname>/barbossa
 ```
 or
 ```
-git pull https://github.com/<yourname>/barbossa
+git clone https://github.com/<yourname>/barbossa
 ```
 
 3. Create new branch
